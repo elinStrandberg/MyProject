@@ -1,6 +1,5 @@
 Idag är det fredag
-<<<<<<< HEAD
-Vad tror du att du håller på med, ändrar i min fil va??
+
+Vad tror du att du håller på med, ändrar i min fil va?? Klart jag gör, I'm the boss
 Yay!!! Blir en tuff helg med att packa upp flyttkartonger.
 Vad ska du hitta på i helgen?
->>>>>>> 7a03f30c1e1991c5819e4141e040abad45d8c7a4
